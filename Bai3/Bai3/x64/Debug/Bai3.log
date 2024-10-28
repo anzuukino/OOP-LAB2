@@ -1,0 +1,6 @@
+﻿  Dagiac.cpp
+  Diem.cpp
+  main.cpp
+F:\tailieudaihoc\oop\lab2\Bai3\main.cpp(27,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Bai3.vcxproj -> F:\tailieudaihoc\oop\lab2\Bai3\x64\Debug\Bai3.exe

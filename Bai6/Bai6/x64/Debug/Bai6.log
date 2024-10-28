@@ -1,0 +1,6 @@
+﻿  diem.cpp
+F:\tailieudaihoc\oop\lab2\Bai6\diem.cpp(36,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  tamgiac.cpp
+  Generating Code...
+  Bai6.vcxproj -> F:\tailieudaihoc\oop\lab2\Bai6\x64\Debug\Bai6.exe
